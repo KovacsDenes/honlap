@@ -41,7 +41,6 @@ iv = setInterval(() => {
         {
             clearInterval(iv)
             alert("VÉGEREDMÉNY: Lila Nyert")
-            window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
         }
         reset_game();
     }
@@ -58,7 +57,6 @@ iv = setInterval(() => {
         {
             clearInterval(iv)
             alert("VÉGEREDMÉNY: Piros Nyert")
-            window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
         }
         reset_game();
     }
